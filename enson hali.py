@@ -1,3 +1,4 @@
+#bu hali olmamış diye tagleyip release ettiğim write_file hatası veren halinin güncellenmiş hali 
 import argparse
 import json
 import os
