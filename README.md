@@ -1,3 +1,8 @@
+Projeyi https://github.com/zedraxa/ai-agent reposuna taşıdım
+
+
+
+
 Kullanmış olduğum işletim sisteminde(parrotOS) localde openclaw kullanmamın zahmetli olması, autogpt'nin de api'a olan bağlılığı sebebiyle tatilde başladığım ihtiyaca yönelik AI agent projesi. (henüz başarıya ulaşmadı) Githuba yüklenmesini henüz tamamlamadım.
 Ollama ile localde bulunan bir model kullanarak çalışıyor.
 Ben qwen2.5:7b-instruct kullanıyorum
